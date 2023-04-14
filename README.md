@@ -21,15 +21,9 @@ Here is the basic syntax for using GitPulse:
 
 bashCopy code
 
-`gitpulse <repository_path> <output_filename>`
+`gitpulse `
 
-For example, to generate a report for a Git repository located in `/path/to/repository` and save the report to `report.html`, you can enter the following command:
-
-bashCopy code
-
-`gitpulse /path/to/repository report.html`
-
-The generated report will be saved in the current directory.
+The generated report will be saved in the current directory with name **gitpulse_report.html**.
 
 Benefits
 --------
