@@ -1,6 +1,6 @@
 GitPulse
 ========
-![image](https://user-images.githubusercontent.com/82222256/232206399-417bab63-1420-466b-84f5-663f860331f3.png)
+![image](https://user-images.githubusercontent.com/82222256/232227058-d90fe7c8-26cb-4d04-9d98-01aec5510a08.png)
 
 GitPulse is a Python-based command-line tool that generates an HTML report summarizing Git log data for a software development project. It provides insights into the number of commits and merges for each developer who has contributed to the project.
 
