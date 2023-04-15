@@ -7,24 +7,24 @@ GitPulse is a Python-based command-line tool that generates an HTML report summa
 Installation
 ------------
 
-To install GitPulse, you can use pip. Open a terminal window and enter the following command:
+To install GitPulse, you can use pip. Open a terminal window and enter the following command in adminstrator mode:
 
-bashCopy code
-
-`pip install gitpulse`
+```
+pip install gitpulse
+```
 
 Usage
 -----
 
-GitPulse can be run from the command line using the `gitpulse` command. The tool requires two inputs: the path to the Git repository and the output filename for the generated report.
+GitPulse can be run from the command line using the `gitpulse` command in the the Git repository.
 
 Here is the basic syntax for using GitPulse:
 
-bashCopy code
+```
+gitpulse
+```
 
-`gitpulse `
-
-The generated report will be saved in the current directory with name **gitpulse_report.html**.
+On success there will be clean exit to console. The generated report will be saved in the current directory with name **gitpulse_report.html**.
 
 Benefits
 --------
